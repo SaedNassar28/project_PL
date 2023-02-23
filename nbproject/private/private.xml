@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group name="AllSourceCodeAndMediaFIles">
+            <file>file:/D:/FCAI%20HU/LEVEL%202/1ST%20TERM/PL2/projects/project_PL/src/Frames/Panels/Course_AddPanel.java</file>
+            <file>file:/D:/FCAI%20HU/LEVEL%202/1ST%20TERM/PL2/projects/project_PL/src/GUI/StudentDashboard.java</file>
+            <file>file:/D:/FCAI%20HU/LEVEL%202/1ST%20TERM/PL2/projects/project_PL/src/Frames/Admin_Teaching_AssistantFrame.java</file>
+            <file>file:/D:/FCAI%20HU/LEVEL%202/1ST%20TERM/PL2/projects/project_PL/src/GUI/Teaching_AssistantDashBoard.java</file>
+            <file>file:/D:/FCAI%20HU/LEVEL%202/1ST%20TERM/PL2/projects/project_PL/src/Frames/Panels/Course_ListPanel.java</file>
+            <file>file:/D:/FCAI%20HU/LEVEL%202/1ST%20TERM/PL2/projects/project_PL/src/project_pl/Department.java</file>
+            <file>file:/D:/FCAI%20HU/LEVEL%202/1ST%20TERM/PL2/projects/project_PL/src/project_pl/Admin.java</file>
+            <file>file:/D:/FCAI%20HU/LEVEL%202/1ST%20TERM/PL2/projects/project_PL/src/Frames/Panels/Student_UpdatePanel.java</file>
+            <file>file:/D:/FCAI%20HU/LEVEL%202/1ST%20TERM/PL2/projects/project_PL/src/Frames/Admin_professorFrame.java</file>
+            <file>file:/D:/FCAI%20HU/LEVEL%202/1ST%20TERM/PL2/projects/project_PL/src/project_pl/Questions.java</file>
+            <file>file:/D:/FCAI%20HU/LEVEL%202/1ST%20TERM/PL2/projects/project_PL/src/Frames/Panels/TA_AddPanel.java</file>
+            <file>file:/D:/FCAI%20HU/LEVEL%202/1ST%20TERM/PL2/projects/project_PL/src/Frames/Panels/TA_ListPanel.java</file>
+            <file>file:/D:/FCAI%20HU/LEVEL%202/1ST%20TERM/PL2/projects/project_PL/src/Frames/Admin_CourseFrame.java</file>
+            <file>file:/D:/FCAI%20HU/LEVEL%202/1ST%20TERM/PL2/projects/project_PL/src/project_pl/Course.java</file>
+            <file>file:/D:/FCAI%20HU/LEVEL%202/1ST%20TERM/PL2/projects/project_PL/src/project_pl/ModelAns.java</file>
+            <file>file:/D:/FCAI%20HU/LEVEL%202/1ST%20TERM/PL2/projects/project_PL/src/Frames/Panels/Course_UpdatePanel.java</file>
+            <file>file:/D:/FCAI%20HU/LEVEL%202/1ST%20TERM/PL2/projects/project_PL/src/GUI/AdminDashboard.java</file>
+            <file>file:/D:/FCAI%20HU/LEVEL%202/1ST%20TERM/PL2/projects/project_PL/src/project_pl/Assignment.java</file>
+            <file>file:/D:/FCAI%20HU/LEVEL%202/1ST%20TERM/PL2/projects/project_PL/src/Frames/Panels/Professor_AddPanel.java</file>
+            <file>file:/D:/FCAI%20HU/LEVEL%202/1ST%20TERM/PL2/projects/project_PL/src/GUI/LoginFrame.java</file>
+            <file>file:/D:/FCAI%20HU/LEVEL%202/1ST%20TERM/PL2/projects/project_PL/src/GUI/ProfessorDashboard.java</file>
+            <file>file:/D:/FCAI%20HU/LEVEL%202/1ST%20TERM/PL2/projects/project_PL/src/project_pl/Project_PL.java</file>
+            <file>file:/D:/FCAI%20HU/LEVEL%202/1ST%20TERM/PL2/projects/project_PL/src/project_pl/FileManager.java</file>
+            <file>file:/D:/FCAI%20HU/LEVEL%202/1ST%20TERM/PL2/projects/project_PL/src/project_pl/Lecture.java</file>
+            <file>file:/D:/FCAI%20HU/LEVEL%202/1ST%20TERM/PL2/projects/project_PL/src/project_pl/MyException.java</file>
+            <file>file:/D:/FCAI%20HU/LEVEL%202/1ST%20TERM/PL2/projects/project_PL/src/project_pl/Staff.java</file>
+            <file>file:/D:/FCAI%20HU/LEVEL%202/1ST%20TERM/PL2/projects/project_PL/src/project_pl/Person.java</file>
+            <file>file:/D:/FCAI%20HU/LEVEL%202/1ST%20TERM/PL2/projects/project_PL/src/Frames/Panels/TA_UpdatePanel.java</file>
+            <file>file:/D:/FCAI%20HU/LEVEL%202/1ST%20TERM/PL2/projects/project_PL/src/Frames/Panels/Student_AddPanel.java</file>
+            <file>file:/D:/FCAI%20HU/LEVEL%202/1ST%20TERM/PL2/projects/project_PL/src/project_pl/Exam.java</file>
+            <file>file:/D:/FCAI%20HU/LEVEL%202/1ST%20TERM/PL2/projects/project_PL/src/Frames/Panels/Professor_ListPanel.java</file>
+            <file>file:/D:/FCAI%20HU/LEVEL%202/1ST%20TERM/PL2/projects/project_PL/src/Frames/Admin_studentFrame.java</file>
+            <file>file:/D:/FCAI%20HU/LEVEL%202/1ST%20TERM/PL2/projects/project_PL/src/project_pl/Student.java</file>
+            <file>file:/D:/FCAI%20HU/LEVEL%202/1ST%20TERM/PL2/projects/project_PL/src/project_pl/Professor.java</file>
+            <file>file:/D:/FCAI%20HU/LEVEL%202/1ST%20TERM/PL2/projects/project_PL/src/project_pl/TeachingAssistant.java</file>
+            <file>file:/D:/FCAI%20HU/LEVEL%202/1ST%20TERM/PL2/projects/project_PL/src/Frames/Panels/Student_ListPanel.java</file>
+        </group>
+        <group/>
+    </open-files>
+</project-private>
